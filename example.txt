@@ -1,2 +1,2 @@
 Example 1:
-    This is an example of new project
+    This is an example of new project 1
